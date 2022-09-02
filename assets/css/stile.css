@@ -1,4 +1,5 @@
 /* Testato per risoluzione 450x844 */
+/* Ho fatto un errore e non ho avuto il tempo di correggerlo, ho creato un div bordo che però mi ha compromesso alcune operazioni successive, ad esempio le immagini di background messe a centro pagina e il footer finale che avevano sfondi grandi l'intera width. Avrei dovuto gestire diversamente il tutto senza creare un div bordo generale */
 
 body {
     margin: 0px;
